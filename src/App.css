@@ -1,0 +1,13 @@
+body{
+    background-color: #3A3C39;
+}
+
+.fixed-menu {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 1000;
+    box-shadow: 0 -10px 1px 1px rgba(0, 0, 0, 0.8);
+    box-sizing: border-box;
+    
+}

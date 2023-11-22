@@ -1,0 +1,18 @@
+.left-part {
+    padding: 20px;
+}
+
+#myPage{
+    color: #727372;
+    margin-bottom: 50px;
+}
+#wlc{
+    margin-bottom: -20px;
+    color: #727372;
+    font-size: 100px;
+}
+.left-part p {
+    color: white;
+    font-size: 1.1em;
+    line-height: 1.6;
+}

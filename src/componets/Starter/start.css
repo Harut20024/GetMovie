@@ -1,0 +1,21 @@
+.container {
+  display: flex;
+  height: 100vh;
+  margin: 0 auto;
+  width: 100%;
+  background-color: #3A3C39;
+  overflow-x: hidden;
+  box-sizing: border-box;
+  margin-bottom: 5%;
+}
+
+.left-part {
+  flex: 0 0 40%;
+  padding: 10px;
+  margin: auto;
+  text-align: center;
+}
+
+.right-part {
+  flex: 0 0 60%;
+}

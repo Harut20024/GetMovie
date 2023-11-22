@@ -1,0 +1,431 @@
+[
+    {
+        "id": 1,
+        "name": "13 Minutes",
+        "year": 2021,
+        "genre": [
+            "Action",
+            "Thriller"
+        ],
+        "description": "When a devastating tornado hits a provincial town, the lives of four families change drastically. The residents have only thirteen minutes to hide in a safe shelter and try to survive the battle against the deadly element, which will stop at nothing...",
+        "url": "1"
+    },
+    {
+        "id": 2,
+        "name": "Blacklight ",
+        "year": 2022,
+        "genre": [
+            "Action",
+            "Thriller"
+        ],
+        "description": "The main character has been doing various missions for the FBI, but when he decides to leave the service for his granddaughter, he is turned down. The man decides to defy the system and uncover all the existing conspiracies that make the secrets of the governm...",
+        "url": "2"
+    },
+    {
+        "id": 3,
+        "name": "The Wolf and the Lion ",
+        "year": 2021,
+        "genre": [
+            "Adventures",
+            "Drama",
+            "Family"
+        ],
+        "description": "Alma, a pianist, arrives at her paternal home, where she spent her childhood years. One day she meets a little lion cub and a wolf cub and secretly keeps them. The animals grow up, but the secret is soon revealed. The lion is given to a traveling circus, and the wolf is taken away for research by scientists. The three friends must embark on a journey to meet again.",
+        "url": "3"
+    },
+    {
+        "id": 4,
+        "name": "Home Alone ",
+        "year": 1990,
+        "genre": [
+            "Comedy",
+            "Family"
+        ],
+        "description": "An American family are going to Europe and accidentally leave one of their children at home. However the boy doesn’t lose his head, and when robbers decide to break into his house he will do everything to make them regret that idea.",
+        "url": "4"
+    },
+    {
+        "id": 5,
+        "name": "Black Warrant",
+        "year": 2022,
+        "genre": [
+            "Action",
+            "Thriller"
+        ],
+        "description": "Nick Falconi is a former Special Forces man who specializes in assassinations; Anthony is a DEA agent. Their paths cross when it becomes necessary to stop a terrorist organization that has invented the dangerous machine capable of causing an irreparable strike on the power grid and bringing catastrophe on a global scale.",
+        "url": "5"
+    },
+    {
+        "id": 6,
+        "name": "Blowback ",
+        "year": 2021,
+        "genre": [
+            "Action",
+            "Thriller",
+            "Crime"
+        ],
+        "description": "Nick has devised the perfect heist plan and is ready to make big money. However, there is one difficulty: his accomplices and his girlfriend have completely different ideas. During the shootout, they think they've managed to get rid of Nick, but the man survives and begins to take revenge on each of the traitors in turn.",
+        "url": "6"
+    },
+    {
+        "id": 7,
+        "name": "Legionnaires Trail ",
+        "year": 2020,
+        "genre": [
+            "Action",
+            "Adventures"
+        ],
+        "description": "Noren is half Roman, and one day he has to cross the snow-covered mountains of Armenia. In this area patrols of Parthians are constantly on duty, and the protagonist in this situation needs to find help for his slowly dying tribesmen.",
+        "url": "7"
+    },
+    {
+        "id": 8,
+        "name": "Backtrace",
+        "year": 2019,
+        "genre": [
+            "Crime",
+            "Drama"
+        ],
+        "description": "A planned and brutal robbery of the collection vehicle caused many victims. The police managed to catch up with the thieves and even get one of them. However, thugs have already hidden the money. A captured robber is the only way to get to the stolen property, but the criminal has lost his memory.",
+        "url": "8"
+    },
+    {
+        "id": 9,
+        "name": "Lone Survivor",
+        "year": 2014,
+        "genre": [
+            "Action",
+            "War"
+        ],
+        "description": "Afghanistan, 2005. A team of US Special Force soldiers is assigned to neutralize a known Taliban leader Ahmad Shah. Having got into the trap, the soldiers take an unequal bloody battle ...",
+        "url": "9"
+    },
+    {
+        "id": 10,
+        "name": "Hua Mulan",
+        "year": 2020,
+        "genre": [
+            "Action",
+            "War"
+        ],
+        "description": "Invaders approach the Chinese border, and the brave Mulan, who is the daughter of a skillful warrior, decides to defend her homeland. The heroine takes the place of her sick father, having changed into men's clothes and put on military armor. The girl will have to keep her secret and face the difficulties of war.",
+        "url": "10"
+    },
+    {
+        "id": 11,
+        "name": "Last Moment of Clarity",
+        "year": 2020,
+        "genre": [
+            "Detective",
+            "Thriller",
+            "Drama"
+        ],
+        "description": "A real tragedy happens in the life of the main character named Sam when he loses the girl he loves. For four years, the guy tries to find those responsible for her death. Soon he goes to the movies, where he notices an actress who is very similar to his dead sweetheart.",
+        "url": "11"
+    },
+    {
+        "id": 12,
+        "name": "The Mechanik",
+        "year": 2005,
+        "genre": [
+            "Action",
+            "Thriller",
+            "Drama"
+        ],
+        "description": "Seven years have passed since Nikolai Cherenko, an ex-Afghan who now works as a regular mechanic, avenged the gang of drug dealers who killed his family. He lives in Los Angeles, where he has to save the kidnapped beauty Julia. It turns out that his nemesis has survived, and he needs to finish the job he started...",
+        "url": "11"
+    },
+    {
+        "id": 13,
+        "name": "Venom: Let There Be Carnage",
+        "year": 2021,
+        "genre": [
+            "Action",
+            "Thriller",
+            "Horror",
+            "SCI-FI"
+        ],
+        "description": "A symbiote from outer space, Venom lives in the earthly journalist, Eddie Brock. Soon he will have to confront the ruthless serial killer Cletus Kasady. The latter also merges with another alien symbiote, after which he transforms into a bloodthirsty monster named Carnage...",
+        "url": "13"
+    },
+    {
+        "id": 14,
+        "name": "Journey 2: The Mysterious Island",
+        "year": 2012,
+        "genre": [
+            "Adventures",
+            "Sci-Fi",
+            "Family",
+            "Fantasy"
+        ],
+        "description": "Sean Anderson, his children and a stepfather are sent to a lost island in the ocean inhabited with dinosaurs, with raging volcanos and hidden treasures. They must save the only native on the island until he disappeared in the waves after a powerful earthquake.        ",
+        "url": "14"
+    },
+    {
+        "id": 15,
+        "name": "Segni particolari: bellissimo",
+        "year": 1983,
+        "genre": [
+            "Comedy"
+        ],
+        "description": "Mattia, a handsome man, and seducer of women who falls in love at first sight is a successful and famous writer. He is tired of the constant female attention, so the hero pays a young neighbor Michele, who begins to pretend to be his daughter and discourages groupies from the hero. However, she soon wins his heart...",
+        "url": "15"
+    },
+    {
+        "id": 16,
+        "name": "The Postcard Killings",
+        "year": 2020,
+        "genre": [
+            "Detective",
+            "Crime",
+            "Drama"
+        ],
+        "description": "The daughter of a police officer from New York, Jack Canon, is in Rome now. Together with her fiancé, they become the victims of a maniac. A series of similar killings happens soon, the psychopath leaves postcards with the lines from Shakespeare's works. The father and Swedish reporter Daisy join forces to investigate these crimes",
+        "url": "16"
+    },
+    {
+        "id": 17,
+        "name": "Aladdin",
+        "year": 2019,
+        "genre": [
+            "Comedy",
+            "Romance",
+            "Musical",
+            "Adventures",
+            "Family",
+            "Fantasy"
+        ],
+        "description": "Aladdin, a young guy who is a thief, has been dreaming all his life of becoming a real prince: to lounge on down pillows, live in comfort and marry beautiful Jasmine. Unexpectedly the hero finds himself in the epicenter of events during which vizier Jafar persuades him to go to the magic cave.",
+        "url": "17"
+    },
+    {
+        "id": 18,
+        "name": "Cleaner",
+        "year": 2007,
+        "genre": [
+            "Detective",
+            "Thriller"
+        ],
+        "description": "A lot of people don’t want to deal with the dirt which was left on a place where there was a dead body or other bio-contamination. Tom Cattler is a former policeman and now he works for a company which deals with cleaning. Tom justifies his work by saying that he doesn’t only eliminate the dirt, but also helps people get rid of sorrow, pain and suffering. But when a person gets to a crime scene,",
+        "url": "18"
+    },
+    {
+        "id": 19,
+        "name": "Unfinished Affairs",
+        "year": 2022,
+        "genre": [
+            "Thriller",
+            "Adventures"
+        ],
+        "description": "After being transferred to another city, police inspector Manuel is assigned to investigate the murder of a girl. However, the further he plunges into the case, the sooner it becomes clear that everything is not as simple and unambiguous as it seemed to the man at first sight...",
+        "url": "19"
+    },
+    {
+        "id": 20,
+        "name": "Monsters, Inc",
+        "year": 2002,
+        "genre": [
+            "Comedy",
+            "Adventures",
+            "Family",
+            "Kids",
+            "Feature",
+            "Fantasy"
+        ],
+        "description": "Slippery creep in a sink tank, shaggy beast, that looks like a monster from ‘The Scarlet Flower’, giant woodlice under the bed – they are all real. The only thing they need is to scare children, because this is how they get electricity. The feature animated movie tells the story of the crisis in the world of monsters. One day, the peaceful life of monsters becomes at a risk. A child comes to their",
+        "url": "19"
+    },
+    {
+        "id": 21,
+        "name": "Alice",
+        "year": 2019,
+        "genre": [
+            "Comedy",
+            "Romance",
+            "Drama"
+        ],
+        "description": "One day Alice accidentally discovers that her husband uses escort services... On this addiction, the spouse missed almost all the savings of the family. In this situation, the woman decides to engage in the provision of such services to make money for herself and her son. It soon turns out that this turns out it is quite good.",
+        "url": "21"
+    },
+    {
+        "id": 22,
+        "name": "Cars",
+        "year": 2006,
+        "genre": [
+            "Family",
+            "Kids",
+            "Feature",
+            "Film"
+        ],
+        "description": "Indomitable in his desire to win always and everywhere, a race car Lightning McQueen suddenly discovers that it went astray and got stuck in a small provincial town of Radiator Springs, which is located somewhere on Route 66 in California. Participating in the race for the Piston Cup, where he was opposed by two very experienced opponents, McQueen did not expect that from now on he would have to",
+        "url": "22"
+    },
+    {
+        "id": 23,
+        "name": "Boonie Bears: Entangled Worlds",
+        "year": 2019,
+        "genre": [
+            "Comedy",
+            "Adventures",
+            "Kids",
+            "Feature",
+            "Film"
+        ],
+        "description": "Restless bears Briar and Bramble love the native forest that is their home. They are trying to stop logger Vic from trying to destroy it and are constantly chasing the poor man. One day, while fleeing the brothers, the guy encounters a robot called Coco. She tries to find the lost world and save its treasures from bandits, and the heroes will help her with that.",
+        "url": "23"
+    },
+    {
+        "id": 24,
+        "name": "Moana",
+        "year": 2016,
+        "genre": [
+            "Musical",
+            "Adventures",
+            "Family",
+            "Kids",
+            "Feature",
+            "Fantasy"
+        ],
+        "description": "The daughter of the leader of a tribe of one of the islands of Fiji has been dreaming about travelling since childhood. She decides to meet the famous demigod to make her dream true. Together they will be faced with huge sea creatures.",
+        "url": "24"
+    },
+    {
+        "id": 25,
+        "name": "Tangled",
+        "year": 2010,
+        "genre": [
+            "Musical",
+            "Family",
+            "Kids",
+            "Feature",
+            "Fantasy"
+        ],
+        "description": "A charming rogue Flynn travels through life with ease, just because he is handsome, chatty and lucky. And it seemed that luck is always on his side, until one day he chooses a high tower in the thick woods as a quiet refuge. Flynn gets bound hand and foot by a young beauty named Rapunzel. If you think that the most interesting thing in her is 21 meters of magical golden hair, you are wrong! Lock",
+        "url": "25"
+    },
+    {
+        "id": 26,
+        "name": "Hotel Transylvania 2",
+        "year": 2015,
+        "genre": [
+            "Comedy",
+            "Family",
+            "Kids",
+            "Feature",
+            "Fantasy"
+        ],
+        "description": "Dracula and his friends try to bring out the monster in his half human, half vampire grandson in order to keep Mavis from leaving the hotel.",
+        "url": "26"
+    },
+    {
+        "id": 27,
+        "name": "Ratatouille",
+        "year": 2007,
+        "genre": [
+            "Family",
+            "Kids",
+            "Feature",
+            "Fantasy"
+        ],
+        "description": "Remy the rat has unique taste. He is ready to risk his life to see his favorite cooking show and get some seasoning or just a fresh product. Remi lives with his relatives, who do not understand and do not accept his love got cooking. When Remy accidentally gets into the kitchen of a posh restaurant, he decides to take the chance and test his skills. At the same kitchen, there is a young Linguine",
+        "url": "27"
+    },
+    {
+        "id": 28,
+        "name": "Hercules",
+        "year": 1997,
+        "genre": [
+            "Family",
+            "Kids",
+            "Feature",
+            "Fantasy"
+        ],
+        "description": "Hades is the ruler of the underworld. Many years ago he was actually exiled by his older brother Zeus in the depths of Hell and now intends to catch up, gathering an army of monsters to capture the Olympus. The only one who can prevent Hades is the son of Zeus, the young Hercules, so the villain's henchmen kidnap the baby and turn it into a mere mortal. Many years later, the young man learns about",
+        "url": "28"
+    },
+    {
+        "id": 29,
+        "name": "Finding Nemo",
+        "year": 2003,
+        "genre": [
+            "Family",
+            "Kids",
+            "Feature"
+        ],
+        "description": "Near a cozy coral reef, a clownfish Marlin brings up his restless son Nemo, who is so eager to sail away from the safe places and get stuck into something. Once curiosity misleads him, and Nemo is trapped far from his home. Marlin, despite his fear of the open ocean, goes in search of the ne'er offspring, enlisting the help of his friend Dory.",
+        "url": "29"
+    },
+    {
+        "id": 30,
+        "name": "Coco",
+        "year": 2017,
+        "genre": [
+            "Family",
+            "Kids",
+            "Feature",
+            "Fantasy",
+            "Adventures"
+        ],
+        "description": "Miguels family is against his desire to study music. In order to solve the mystery of his family he must go to the Land of the Dead to meet the spirits of his ancestors and ask them to help him find the spirit of his favorite singer.",
+        "url": "30"
+    },
+    {
+        "id": 31,
+        "name": "Pirates of the Caribbean: On Stranger Tides",
+        "year": 2011,
+        "genre": [
+            "Comedy",
+            "Action",
+            "Fantasy"
+        ],
+        "description": "In this new story about the pursuance of truth, betrayal, eternal youth and mortal danger, Captain Jack Sparrow is to face a woman from his past Angelica. It won’t be completely clear, whether it is a true love between them or whether it’s Angelica’s acting technique in order to get to the mysterious source of eternal youth. She is forcing Captain Sparrow to climb abroad the ship Queen Anne’s Reve",
+        "url": "31"
+    },
+    {
+        "id": 32,
+        "name": "Jumanji: Welcome to the Jungle",
+        "year": 2017,
+        "genre": [
+            "Comedy",
+            "Action",
+            "Adventures",
+            "Family",
+            "Fantasy"
+        ],
+        "description": "A remake of the famous adventure movie of the 90s. A brother and sister come across a unique game. Hardly do they understand the danger of the game, as it doesn’t like cheaters and punishes the guilty sucking them into its world.",
+        "url": "32"
+    },
+    {
+        "id": 33,
+        "name": "Sherlock Holmes",
+        "year": 2009,
+        "genre": [
+            "Detective",
+            "Thriller"
+        ],
+        "description": "Dr. Watson is planning to marry and retire. Sherlock Holmes is not very happy about this, so he draws Watson in a new case about a series of cult murders that have paralyzed the peaceful life in London. Their new enemy bids defiance to London society.",
+        "url": "33"
+    },
+    {
+        "id": 34,
+        "name": "Murder Party",
+        "year": 2022,
+        "genre": [
+            "Comedy",
+            "Detective"
+        ],
+        "description": "Jeanne, a brilliant architect, has to renovate the luxurious mansion of the Daguerre family, which owns an empire selling board games. When someone kills the head of the family during a party, the girl has to play all the famous games to find the villain.",
+        "url": "34"
+    },
+    {
+        "id": 35,
+        "name": "Hinterland",
+        "year": 2021,
+        "genre": [
+            "Detective",
+            "Drama"
+        ],
+        "description": "In 1920, several murders take place in Vienna that are characterized by their identical M.O. Soon Peter Berg returns from the war and recognizes his former colleagues as victims of an unknown criminal. The protagonist has to help in the search for the villain...",
+        "url": "35"
+    }
+]

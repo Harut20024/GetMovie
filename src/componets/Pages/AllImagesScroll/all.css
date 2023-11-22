@@ -1,0 +1,42 @@
+.genre-section {
+    overflow: hidden;
+    position: relative;
+    margin-bottom: 30px; /* Spacing between genre sections */
+  }
+  
+  .images-container {
+    border: 2px solid black;
+    margin: 0 4% 1% 4%;
+    border-radius: 20px;
+    display: flex;
+    scroll-behavior: smooth;
+    overflow-x: auto;
+    padding: 10px 0; /* Padding for visual comfort */
+  }
+  
+  .image {
+    border: 1px solid white;
+    flex: 0 0 auto;
+    width: 200px; /* Adjust as needed */
+    height: 200px; /* Adjust as needed */
+    margin: 0 10px;
+    border-radius: 8px; /* Rounded corners */
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1); /* Shadow for depth */
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+  }
+  
+  .image:hover {
+    transform: scale(1.1); /* Slight zoom on hover */
+    box-shadow: 0 6px 12px rgba(0,0,0,0.2); /* Increased shadow on hover */
+  }
+  
+  /* Optional: hide scrollbar */
+  .images-container::-webkit-scrollbar {
+    display: none;
+  }
+  
+  .images-container {
+    -ms-overflow-style: none;  /* IE and Edge */
+    scrollbar-width: none;  /* Firefox */
+  }
+  
