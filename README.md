@@ -1,4 +1,5 @@
 # GetMovie Web Application
+![Portfollio](https://github.com/Harut20024/GetMovie/blob/main/public/back.png)
 ## Overview
 Welcome to GetMovie, a sleek and user-friendly web application dedicated to movie enthusiasts! Our platform offers an engaging and visually appealing way to browse through a wide variety of films, ensuring you find your next favorite movie in no time. Whether you're a fan of action-packed thrillers, heartwarming family films, or thought-provoking dramas, GetMovie has something for everyone.
 
