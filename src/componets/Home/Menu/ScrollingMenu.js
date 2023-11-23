@@ -89,10 +89,10 @@ function ScrollingMenu() {
     <>
       <div className="menu-container">
         <ul className="menu-list">
-          <li><NavLink to="/">Home</NavLink></li>
-          <li><NavLink to="/new">TimeLine</NavLink></li>
-          <li><NavLink to="/list">For Kids</NavLink></li>
-          <li><NavLink to="/categories">Categories</NavLink></li>
+          <li><NavLink to="GetMovie/">Home</NavLink></li>
+          <li><NavLink to="GetMovie/new">TimeLine</NavLink></li>
+          <li><NavLink to="GetMovie/list">For Kids</NavLink></li>
+          <li><NavLink to="GetMovie/categories">Categories</NavLink></li>
         </ul>
         <div className="search-container">
           <input

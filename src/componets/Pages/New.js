@@ -1,4 +1,4 @@
-import React, { useState, useMemo } from 'react';
+import React, { useState } from 'react';
 import imageData from "../../componets/Home/Main/data.json"
 import '../../componets/Home/Main/main.css';
 import { images } from '../../componets/Home/Main/images/ImageCollect';

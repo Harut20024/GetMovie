@@ -31,10 +31,9 @@ function App() {
       </div>
       <Routes>
         <Route path="/GetMovie" element={<Home />} />
-        <Route path="/" element={<Home />} />
-        <Route path="/new" element={<New />} />
-        <Route path="/list" element={<List />} />
-        <Route path="/categories" element={<Categories />} />
+        <Route path="GetMovie/new" element={<New />} />
+        <Route path="GetMovie/list" element={<List />} />
+        <Route path="GetMovie/categories" element={<Categories />} />
       </Routes>
       <Footer />
     </div>
