@@ -54,25 +54,30 @@ function Main() {
         setSince(since => since + 10);
     };
     const handleLoadLess = () => {
-        setSince(since => since - 20);
+        setSince(since => since - 30);
     };
 
     return (
-        <div className="image-container">
-            {imageData.slice(0, since).map((image, index) => {
-                const imgSrc = images[index];
-                return (
-                    <div key={image.id} className="image-item" onClick={() => setSelectedImageIndex(index)}>
-                        <img src={imgSrc} alt={image.name} />
-                        <h3>{image.name}</h3>
-                        <div className="image-description">{image.description}</div>
-                    </div>
-                );
-            })}
+        <div className="main-container">
+            <div className="image-container">
+                {imageData.slice(0, since).map((image, index) => {
+                    const imgSrc = images[index];
+                    return (
+                        <div key={image.id} className="image-item" onClick={() => setSelectedImageIndex(index)}>
+                            <img src={imgSrc} alt={image.name} />
+                            <h3>{image.name}</h3>
+                            <div className="image-description">{image.description}</div>
+                        </div>
+                    );
+                })}
+            </div>
+            <div className="load-more-container">
+                {since < imageData.length ?
+                    <button id='loadMore' onClick={handleLoadMore}>Load More</button> :
+                    <button id='loadMore' onClick={handleLoadLess}>Load Less</button>}
+            </div>
 
-            {since < imageData.length ?
-                <button id='loadMore' onClick={handleLoadMore}>Load More</button> :
-                <button id='loadMore' onClick={handleLoadLess}>Load Less</button>}
+
 
             {selectedImageIndex !== null && (
                 <div className="overlay" onClick={handleClose}>

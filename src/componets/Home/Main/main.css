@@ -1,10 +1,3 @@
-.image-container {
-    color: white;
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-    padding: 10px;
-}
 
 .image-item {
     padding: 4px;
@@ -153,6 +146,26 @@
     outline: none;
     background-color: #003d82;
 }
+
+.main-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.image-container {
+    color: white;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding: 10px;
+}
+
+.load-more-container {
+    padding: 20px;
+}
+
+
 
 @keyframes fadeIn {
     from {

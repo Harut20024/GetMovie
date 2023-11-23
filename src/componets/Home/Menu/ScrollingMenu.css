@@ -12,12 +12,14 @@
     box-shadow: 0 5px 10px 10px rgba(0, 0, 0, 0.6);
     margin-bottom: 3%;
     box-sizing: border-box;
-
+    z-index: 2;
 }
 
 .search-container {
     flex-grow: 0.4;
     margin: 0;
+    position: relative;
+    /* For absolute positioning of search results */
 }
 
 .search-input {
@@ -26,8 +28,6 @@
     margin-right: 0px;
     border-radius: 5px;
     border: 1px solid #ddd;
-
-
 }
 
 .menu-list {
@@ -56,4 +56,49 @@
 .menu-list li a:hover {
     background-color: gray;
     border-radius: 50px;
+}
+
+.search-results {
+    position: absolute;
+    top: 120%;
+    right: 10px;
+    width: 400px;
+    background-color: white;
+    border-radius: 10px;
+    text-align: center;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
+    max-height: 500px;
+    overflow-y: auto;
+    z-index: 1;
+}
+
+.search-result-item {
+    margin: 10px;
+    border-radius: 10px;
+    padding: 10px;
+    border: 1px solid #ddd;
+    cursor: pointer;
+    transition: background-color 0.2s ease-in-out;
+}
+
+.search-result-item:hover {
+    background-color: #f0f0f0;
+}
+
+.search-result-item h4 {
+    margin: 0 0 5px 0;
+    color: rgb(65, 67, 64);
+    font-size: 16px;
+}
+
+.search-result-item p {
+    margin: 0;
+    font-size: 14px;
+    color: #333;
+    text-align: left;
+}
+
+.overlay{
+    z-index: 1;
+
 }
