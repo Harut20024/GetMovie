@@ -39,6 +39,7 @@
   -ms-overflow-style: none;  /* IE and Edge */
   scrollbar-width: none;  /* Firefox */
 }
-.genreTitlName{
+.genre-title-container{
   display: flex;
+  margin: auto;
 }
