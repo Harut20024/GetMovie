@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/GetMovie/static/css/main.b23bce3e.css",
-    "main.js": "/GetMovie/static/js/main.505fc30f.js",
+    "main.css": "/GetMovie/static/css/main.124ea572.css",
+    "main.js": "/GetMovie/static/js/main.b36149d0.js",
     "static/media/fone.jpg": "/GetMovie/static/media/fone.fead5c5964d8627ecd46.jpg",
     "static/media/30.jpg": "/GetMovie/static/media/30.bf693ebcf8e0d9be9cc9.jpg",
     "static/media/25.jpg": "/GetMovie/static/media/25.3d9a32994b0ffe56513b.jpg",
@@ -39,11 +39,11 @@
     "static/media/8.jpg": "/GetMovie/static/media/8.5f437a29448a4853e486.jpg",
     "static/media/11.jpg": "/GetMovie/static/media/11.7ad63a90e616d1215c8c.jpg",
     "index.html": "/GetMovie/index.html",
-    "main.b23bce3e.css.map": "/GetMovie/static/css/main.b23bce3e.css.map",
-    "main.505fc30f.js.map": "/GetMovie/static/js/main.505fc30f.js.map"
+    "main.124ea572.css.map": "/GetMovie/static/css/main.124ea572.css.map",
+    "main.b36149d0.js.map": "/GetMovie/static/js/main.b36149d0.js.map"
   },
   "entrypoints": [
-    "static/css/main.b23bce3e.css",
-    "static/js/main.505fc30f.js"
+    "static/css/main.124ea572.css",
+    "static/js/main.b36149d0.js"
   ]
 }
