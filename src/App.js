@@ -30,7 +30,7 @@ function App() {
         <ScrollingMenu />
       </div>
       <Routes>
-        <Route path="/GetMovie" element={<Home />} />
+        <Route path="/GetMovie/" element={<Home />} />
         <Route path="GetMovie/new" element={<New />} />
         <Route path="GetMovie/list" element={<List />} />
         <Route path="GetMovie/categories" element={<Categories />} />
