@@ -12,7 +12,6 @@ function GenreSection({ genre, imageUrls }) {
         const { scrollLeft, scrollWidth, clientWidth } = sliderRef.current;
         let newScrollPosition = scrollLeft + scrollStep;
 
-        // Check if we reached the end of the scroll
         if (newScrollPosition >= scrollWidth - clientWidth) {
           newScrollPosition = 0; // Reset to start
         }
@@ -21,13 +20,14 @@ function GenreSection({ genre, imageUrls }) {
       }
     }, scrollInterval);
 
-    // Cleanup interval on unmount
     return () => clearInterval(interval);
   }, []);
 
   return (
     <div className="genre-section">
+      <div className='genreTitlName'>
       <h2 className="genre-title">{genre}</h2>
+      </div>
       <div className="images-container" ref={sliderRef}>
         {imageUrls.map((src, index) => (
           <img

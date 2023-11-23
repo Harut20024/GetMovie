@@ -6,7 +6,7 @@ import GenreSection from './GenreSection/GenreSection';
 
 
 function Categories() {
-  const genres = ['Detective', 'Comedy', 'Action', 'Family', 'Kids'];
+  const genres = ['Detective', 'Comedy', 'Action', 'Family', 'Kids', "Thriller", "Drama", "Crime", "Adventures"];
 
   const genreImages = (genre) => {
     return imageData

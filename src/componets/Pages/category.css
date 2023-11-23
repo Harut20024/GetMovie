@@ -4,13 +4,14 @@
   
   .genre-section {
     margin-bottom: 40px;
-    display: flex;
+    /* display: flex; */
     align-items: center;
   }
   
   .genre-title {
     font-size: 24px;
-    margin-right: 10px;
+    margin-right: auto;
+    margin-left: auto;
   }
   
   .images-container {
